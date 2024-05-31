@@ -20,6 +20,12 @@
 * [Java Programming Language](https://www.java.com/ "Java &#124; Oracle"), [Spring Framework](https://spring.io/ "Spring &#124; Home")
 * [Apache Maven](https://maven.apache.org/ "Maven – Welcome to Apache Maven"), [dotCMS](https://www.dotcms.com/ "Content Management System (CMS) &#124; dotCMS"), [Git](https://git-scm.com/ "Git"), [Hibernate](https://hibernate.org/ "Hibernate. Everything data."), [IntelliJ IDEA](https://www.jetbrains.com/idea/ "IntelliJ IDEA – the Leading Java and Kotlin IDE"), [JavaScript](https://www.javascript.com/ "Learn JavaScript Online - Courses for Beginners - javascript.com"), [SQL](https://sqlfiddle.com/ "SQL Fiddle"), [XSLT](https://www.xml.com/ "XML.com")
 
+## Certifications
+
+1. [Oracle Certified Associate, Java SE 8 Programmer](https://catalog-education.oracle.com/pls/certview/sharebadge?id=119D68447A8A3235F7FC3C87ACCA5DEA732C69A05A676D39979BDE45FDF81DE1 "Oracle Certified Associate, Java SE 8 Programmer")\
+Oracle University, May 30, 2024\
+Skills acquired: JDK 8, Java, Java 8 Date And Time API, Java Application Development, Java SE 8, Lambda Expressions)
+
 ## Geek Code
 
 -----BEGIN GEEK CODE BLOCK-----  
