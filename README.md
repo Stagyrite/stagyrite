@@ -32,7 +32,7 @@ Skills acquired: JDK 8, Java, Java 8 Date And Time API, Java Application Develop
 Version: 3.12  
 [GCS](https://stagyrite.github.io/stagyrite/#geek-code "Type of Geek [GCS]: Geek of Computer Science.")
 [d-](https://stagyrite.github.io/stagyrite/#geek-code "Appearance: Dress: I'm usually in jeans and a t-shirt.")
-[s++:](https://stagyrite.github.io/stagyrite/#geek-code "Appearance: Shape: I'm a basketball candidate. I'm a average geek.")
+[s++:](https://stagyrite.github.io/stagyrite/#geek-code "Appearance: Shape: I'm a basketball candidate. When it comes to weight, I'm an average geek.")
 [a+](https://stagyrite.github.io/stagyrite/#geek-code "Appearance: Age: 40-49.")
 [C++](https://stagyrite.github.io/stagyrite/#geek-code "Computers: Computers: Computers are a large part of my existence. When I get up in the morning, the first thing I do is log myself in. I play games or mud on weekends, but still manage to stay off of academic probation.")
 [UL++](https://stagyrite.github.io/stagyrite/#geek-code "Computers: UNIX: I've get the entire admin ticked off at me because I am always using all of the CPU time and trying to run programs that I don't have access to. I'm going to try cracking /etc/passwd next week, just don't tell anyone.")
