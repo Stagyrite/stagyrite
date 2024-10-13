@@ -11,9 +11,9 @@
 
 | 🎌 | Language | Proficiency |
 | --- | --- | --- |
-| 🇬🇧 | English | B2 |
-| 🇩🇪 | German | A2 |
-| 🇵🇱 | Polish | N |
+| 🇬🇧 | English | [B2](https://stagyrite.github.io/stagyrite/#languages "Higher upper-intermediate") |
+| 🇩🇪 | German | [A2/B1](https://stagyrite.github.io/stagyrite/#languages "Pre-intermediate") |
+| 🇵🇱 | Polish | [N](https://stagyrite.github.io/stagyrite/#languages "Native") |
 
 ## Skills
 
