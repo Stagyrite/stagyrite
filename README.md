@@ -13,6 +13,7 @@
 | --- | --- | --- |
 | 🇬🇧 | English | [B2](https://stagyrite.github.io/stagyrite/#languages "Higher upper-intermediate") |
 | 🇩🇪 | German | [A2/B1](https://stagyrite.github.io/stagyrite/#languages "Pre-intermediate") |
+| 🇫🇷 | French | [A0](https://stagyrite.github.io/stagyrite/#languages "Absolute beginner") |
 | 🇵🇱 | Polish | [N](https://stagyrite.github.io/stagyrite/#languages "Native") |
 
 ## Skills
