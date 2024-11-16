@@ -5,7 +5,7 @@
 	provided this notice is preserved.
 -->
 
-## …
+## OCA
 
 [ORACLE Certified Associate, Java SE 8 Programmer](https://catalog-education.oracle.com/pls/certview/sharebadge?id=119D68447A8A3235F7FC3C87ACCA5DEA732C69A05A676D39979BDE45FDF81DE1 "Oracle Certified Associate, Java SE 8 Programmer")\
 Oracle University, May 30, 2024
