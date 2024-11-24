@@ -12,5 +12,9 @@ Oracle University, May 30, 2024
 
 #### Skills:
 
-* [Java](https://www.java.com/ "Java &#124; Oracle"), Java Application Development, Java SE 8, JDK 8
-* Java 8 Date And Time API, Lambda Expressions
+* [Java](https://www.java.com/ "Java &#124; Oracle")
+* Java Application Development
+* Java SE 8
+* JDK 8
+* Java 8 Date And Time API
+* Lambda Expressions
