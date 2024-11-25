@@ -19,4 +19,4 @@ Oracle University, May 30, 2024
 | 3️⃣ | 📱 | Java Application Development |
 | 4️⃣ | ⚙️ | Java SE 8 |
 | 5️⃣ | 👨‍💻 | JDK 8 |
-| 6️⃣ | λλ | Lambda Expressions |
+| 6️⃣ | λx.x | Lambda Expressions |
