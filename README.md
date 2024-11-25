@@ -21,4 +21,4 @@ Oracle University, May 30, 2024
 | 5️⃣ | 👨‍💻 | JDK 8 |
 | 6️⃣ | λλ | Lambda Expressions |
 
-[🇺🇸](# "English")[🇩🇪](# "German")[🇫🇷](# "French")[🇵🇱](# "Polish")
+[🇺🇸](# "English") [🇩🇪](# "German") [🇫🇷](# "French") [🇵🇱](# "Polish")
