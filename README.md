@@ -12,7 +12,7 @@ Oracle University, May 30, 2024
 
 #### Skill set:
 
-| 🔢 | ⚛️ | Skill |
+| 🔢 | 🎯 | Skill |
 | --- | --- | --- |
 | 1️⃣ | ☕ | [Java](https://www.java.com/ "Java &#124; Oracle") |
 | 2️⃣ | 🕜 | Java 8 Date And Time API |
