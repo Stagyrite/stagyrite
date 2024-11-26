@@ -21,4 +21,4 @@ Oracle University, May 30, 2024
 | 5️⃣ | JDK 8 | 👨‍💻 |
 | 6️⃣ | Lambda Expressions | λx.x |
 
-[OCA](https://stagyrite.github.io/stagyrite/ "Stagyrite | Profile")
+[OCA](https://stagyrite.github.io/stagyrite/ "Stagyrite &#124; Profile")
