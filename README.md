@@ -12,11 +12,13 @@ Oracle University, May 30, 2024
 
 ### Skill set:
 
-| 🔢 | 🎯 | Skill |
+| 🔢 | Skill | 🎯 |
 | --- | --- | --- |
-| 1️⃣ | ☕ | [Java](https://www.java.com/ "Java &#124; Oracle") |
-| 2️⃣ | 🕜 | Java 8 Date And Time API |
-| 3️⃣ | 📱 | Java Application Development |
-| 4️⃣ | ⚙️ | Java SE 8 |
-| 5️⃣ | 👨‍💻 | JDK 8 |
-| 6️⃣ | λx.x | Lambda Expressions |
+| 1️⃣ | [Java](https://www.java.com/ "Java &#124; Oracle") | ☕ |
+| 2️⃣ | Java 8 Date And Time API | 🕜 |
+| 3️⃣ | Java Application Development | 📱 |
+| 4️⃣ | Java SE 8 | ⚙️ |
+| 5️⃣ | JDK 8 | 👨‍💻 |
+| 6️⃣ | Lambda Expressions | λx.x |
+
+[OCA](https://stagyrite.github.io/stagyrite/ "Stagyrite | Profile")
