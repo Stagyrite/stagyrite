@@ -21,4 +21,4 @@ Oracle University, May 30, 2024
 | 5️⃣ | JDK 8 | 👨‍💻 |
 | 6️⃣ | [Lambda Expressions](https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html "Lambda Expressions (The Java™ Tutorials > Learning the Java Language > Classes and Objects)") | λx.x |
 
-[🚀 OCA](https://stagyrite.github.io/stagyrite/ "Stagyrite &#124; Profile")
+[⚛️ OCA](https://stagyrite.github.io/stagyrite/ "Stagyrite &#124; Profile")
