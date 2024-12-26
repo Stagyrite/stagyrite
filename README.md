@@ -14,11 +14,11 @@ Oracle University, May 30, 2024
 
 | 🔢 | Skill | 🎯 |
 | :---: | --- | :---: |
-| 1️⃣ | [Java](https://www.java.com/ "Java &#124; Oracle") | 👩‍💻 |
-| 2️⃣ | [Java 8 Date And Time API](https://www.oracle.com/technical-resources/articles/java/jf14-date-time.html "Java SE 8 Date and Time") | 🕜 |
-| 3️⃣ | Java Application Development | 🧑🏻‍💻 |
-| 4️⃣ | Java SE 8 | 👨🏼‍💻 |
-| 5️⃣ | JDK 8 | 👨‍💻 |
+| 1️⃣ | [Java](https://www.java.com/ "Java &#124; Oracle") | ⬛👩‍💻 |
+| 2️⃣ | [Java 8 Date And Time API](https://www.oracle.com/technical-resources/articles/java/jf14-date-time.html "Java SE 8 Date and Time") | 🟥🕜 |
+| 3️⃣ | Java Application Development | ⬛🧑🏻‍💻 |
+| 4️⃣ | Java SE 8 | ⬛👨🏼‍💻 |
+| 5️⃣ | JDK 8 | ⬛👨‍💻 |
 | 6️⃣ | [Lambda Expressions](https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html "Lambda Expressions (The Java™ Tutorials > Learning the Java Language > Classes and Objects)") | λ𝑥.𝑥 |
 
 [🚀 OCA](https://stagyrite.github.io/stagyrite/ "Stagyrite &#124; Profile")
