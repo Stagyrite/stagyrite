@@ -16,9 +16,9 @@ Oracle University, May 30, 2024
 | :---: | --- | :---: |
 | 1️⃣ | [Java](https://www.java.com/ "Java &#124; Oracle") | ⬛👩‍💻 |
 | 2️⃣ | [Java 8 Date And Time API](https://www.oracle.com/technical-resources/articles/java/jf14-date-time.html "Java SE 8 Date and Time") | 🟥🕜 |
-| 3️⃣ | Java Application Development | ⬛🧑🏻‍💻 |
-| 4️⃣ | Java SE 8 | ⬛👨🏼‍💻 |
-| 5️⃣ | JDK 8 | ⬛👨‍💻 |
+| 3️⃣ | [Java Application Development](https://github.com/Stagyrite/dust "Stagyrite/dust: 🧉 a dungeon-crawling game ported to 3DS") | ⬛🧑🏻‍💻 |
+| 4️⃣ | [Java SE 8](https://github.com/kironia/99balloons "kironia/99balloons: 🎈 balloon shooting game") | ⬛👨🏼‍💻 |
+| 5️⃣ | [JDK 8](https://gist.github.com/Stagyrite/3d99f58594527572a95560dabe92059e "🦮 just a ridiculously simple raytracer") | ⬛👨‍💻 |
 | 6️⃣ | [Lambda Expressions](https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html "Lambda Expressions (The Java™ Tutorials > Learning the Java Language > Classes and Objects)") | λ𝑥.𝑥 |
 
 [\'_ \| OCA\'](https://stagyrite.github.io/stagyrite/ "Stagyrite &#124; Profile")
