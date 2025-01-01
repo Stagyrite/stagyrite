@@ -5,11 +5,6 @@
 	provided this notice is preserved.
 -->
 
-## ["Skilled", "OCA"] | stdout
-
-[ORACLE Certified Associate, Java SE 8 Programmer](https://catalog-education.oracle.com/pls/certview/sharebadge?id=119D68447A8A3235F7FC3C87ACCA5DEA732C69A05A676D39979BDE45FDF81DE1 "Oracle Certified Associate, Java SE 8 Programmer")\
-Oracle University, May 30, 2024
-
 ### ["About", "OCA"] | stdout
 
 | 🔢 | Skill | 🎯 |
@@ -20,6 +15,13 @@ Oracle University, May 30, 2024
 | 4️⃣ | [**Java SE 8**](https://github.com/Stagyrite/dust "Stagyrite/dust: 🧉 a dungeon-crawling game ported to 3DS") | ⬛👨🏼‍💻 |
 | 5️⃣ | JDK 8 | ⬛👨‍💻 |
 | 6️⃣ | [Lambda Expressions](https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html "Lambda Expressions (The Java™ Tutorials > Learning the Java Language > Classes and Objects)") | λ𝑥.𝑥 |
+
+## ["Skilled", "OCA"] | stdout
+
+![stagy](stagy.png)
+
+[ORACLE Certified Associate, Java SE 8 Programmer](https://catalog-education.oracle.com/pls/certview/sharebadge?id=119D68447A8A3235F7FC3C87ACCA5DEA732C69A05A676D39979BDE45FDF81DE1 "Oracle Certified Associate, Java SE 8 Programmer")\
+Oracle University, May 30, 2024
 
 ---
 
