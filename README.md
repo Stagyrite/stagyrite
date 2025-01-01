@@ -11,7 +11,7 @@
 
 | 🔢 | Skill | 🎯 |
 | :---: | --- | :---: |
-| 1️⃣ | [Java](https://www.java.com/ "Java &#124; Oracle") | 🟥👩‍💻 |
+| 1️⃣ | [JAVA](https://www.java.com/ "Java &#124; Oracle") | 🟥👩‍💻 |
 | 2️⃣ | [Java 8 Date And Time API](https://www.oracle.com/technical-resources/articles/java/jf14-date-time.html "Java SE 8 Date and Time") | ⬛🕜 |
 | 3️⃣ | [**Java Application Development**](https://github.com/kironia/99balloons "kironia/99balloons: 🎈 balloon shooting game") | ⬛🧑🏻‍💻 |
 | 4️⃣ | [**Java SE 8**](https://github.com/Stagyrite/dust "Stagyrite/dust: 🧉 a dungeon-crawling game ported to 3DS") | ⬛👨🏼‍💻 |
