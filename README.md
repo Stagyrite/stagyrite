@@ -9,7 +9,7 @@
 
 ### ["About", "OCA"] | stdout
 
-| 🔢 | Skill | 🎯 |
+| 🔢 | 🚀 Skill | 🎯 |
 | :---: | --- | :---: |
 | 1️⃣ | [JAVA](https://www.java.com/ "Java &#124; Oracle") | 🟥👩‍💻 |
 | 2️⃣ | [Java 8 Date And Time API](https://www.oracle.com/technical-resources/articles/java/jf14-date-time.html "Java SE 8 Date and Time") | ⬛🕜 |
