@@ -9,14 +9,14 @@
 
 ### ["About", "OCA"] | stdout
 
-| 🔢 | 🚀 Skill | 🎯 |
+| 🔢 | 🦊 Skill | 🚀🎯 |
 | :---: | --- | :---: |
 | 1️⃣ | [JAVA](https://www.theserverside.com/ "TheServerSide &#124; Your Java Community discussing server side development") | 🟥 👩‍💻 |
-| 2️⃣ | [Java 8 Date And Time API](https://www.oracle.com/technical-resources/articles/java/jf14-date-time.html "Java SE 8 Date and Time") | ⬛ 🕜 |
+| 2️⃣ | [Java 8 Date And Time API](https://docs.oracle.com/javase/8/docs/api/java/time/Clock.html "Clock (Java Platform SE 8 )") | ⬛ 🕜 |
 | 3️⃣ | [**Java Application Development**](https://github.com/kironia/99balloons "kironia/99balloons: 🎈 balloon shooting game") | ⬛ 🧑🏻‍💻 |
 | 4️⃣ | [**Java SE 8**](https://github.com/Stagyrite/dust "Stagyrite/dust: 🧉 a dungeon-crawling game ported to 3DS") | ⬛ 👨🏼‍💻 |
 | 5️⃣ | JDK 8 | ⬛ 👨‍💻 |
-| 6️⃣ | [Lambda Expressions](https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html "Lambda Expressions (The Java™ Tutorials > Learning the Java Language > Classes and Objects)") | λ𝑥.𝑥 |
+| 6️⃣ | [Lambda Expressions](https://docs.oracle.com/javase/8/docs/api/java/util/function/Predicate.html "Predicate (Java Platform SE 8 )") | λ𝑥.𝑥 |
 
 ### ["Skilled", "OCA"] | stdout
 
