@@ -5,7 +5,7 @@
 	provided this notice is preserved.
 -->
 
-## 🌕 Java programmer certified
+## 🌘🌕 Java programmer certified
 
 ### ["About", "OCA"] | stdout
 
