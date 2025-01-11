@@ -1,6 +1,6 @@
 <!-- ["OCP", "OCA"] | stdout -->
 
-## 🌖🌑 Java programmer certified
+## 🌑🌕 Java programmer certified
 
 ### ["About", "OCA"] | stdout
 
