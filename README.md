@@ -15,7 +15,7 @@
 
 ### ["Skilled", "OCA"] | stdout
 
-![box](box.png)
+[![box](box.png)](bigBox.png "⬛ avatar")
 
 * 👨🏻‍💻 Person: [Maciej Matiaszowski](https://stagyrite.github.io/ "Stagyrite &#124; Private Homepage")
 * ⌛ Date: May 30, 2024
