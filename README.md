@@ -6,16 +6,16 @@
 
 | 🔢 | Skill 💯 | 🚀 🎯 |
 | :---: | --- | :---: |
-| 1️⃣ | [Java](https://www.theserverside.com/ "TheServerSide &#124; Your Java Community discussing server side development") | [🟥 👩‍💻](https://www.theserverside.com/ "TheServerSide &#124; Your Java Community discussing server side development") |
-| 2️⃣ | [Java 8 Date And Time API](https://docs.oracle.com/javase/8/docs/api/java/time/Clock.html "Clock (Java Platform SE 8 )") | [⬛ 🕜](https://docs.oracle.com/javase/8/docs/api/java/time/Clock.html "Clock (Java Platform SE 8 )") |
-| 3️⃣ | [**Java Application Development**](https://github.com/kironia/99balloons "kironia/99balloons: 🎈 balloon shooting game") | [⬛ 🧑🏻‍💻](https://github.com/kironia/99balloons "kironia/99balloons: 🎈 balloon shooting game") |
-| 4️⃣ | [Java SE 8](https://docs.oracle.com/javase/8/docs/api/ "Overview (Java Platform SE 8 )") | [⬛ 👨🏼‍💻](https://docs.oracle.com/javase/8/docs/api/ "Overview (Java Platform SE 8 )") |
-| 5️⃣ | [**JDK 8**](https://github.com/Stagyrite/dust "Stagyrite/dust: 🎮 a dungeon-crawling game ported to 3DS")  | [⬛ 👨‍💻](https://github.com/Stagyrite/dust "Stagyrite/dust: 🎮 a dungeon-crawling game ported to 3DS") |
+| 1️⃣ | [Java](https://www.theserverside.com/ "TheServerSide &#124; Your Java Community discussing server side development") | [👩‍💻](https://www.theserverside.com/ "TheServerSide &#124; Your Java Community discussing server side development") |
+| 2️⃣ | [Java 8 Date And Time API](https://docs.oracle.com/javase/8/docs/api/java/time/Clock.html "Clock (Java Platform SE 8 )") | [🕜](https://docs.oracle.com/javase/8/docs/api/java/time/Clock.html "Clock (Java Platform SE 8 )") |
+| 3️⃣ | [**Java Application Development**](https://github.com/kironia/99balloons "kironia/99balloons: 🎈 balloon shooting game") | [🧑🏻‍💻](https://github.com/kironia/99balloons "kironia/99balloons: 🎈 balloon shooting game") |
+| 4️⃣ | [Java SE 8](https://docs.oracle.com/javase/8/docs/api/ "Overview (Java Platform SE 8 )") | [👨🏼‍💻](https://docs.oracle.com/javase/8/docs/api/ "Overview (Java Platform SE 8 )") |
+| 5️⃣ | [**JDK 8**](https://github.com/Stagyrite/dust "Stagyrite/dust: 🎮 a dungeon-crawling game ported to 3DS")  | [👨‍💻](https://github.com/Stagyrite/dust "Stagyrite/dust: 🎮 a dungeon-crawling game ported to 3DS") |
 | 6️⃣ | [Lambda Expressions](https://docs.oracle.com/javase/8/docs/api/java/util/function/Predicate.html "Predicate (Java Platform SE 8 )") | [λ𝑥.𝑥](https://docs.oracle.com/javase/8/docs/api/java/util/function/Predicate.html "Predicate (Java Platform SE 8 )") |
 
 ### ["Skilled", "OCA"] | stdout
 
-[![box](box.png)](bigBox.jpg "⬛ avatar")
+[![box](box.png)](bigBox.jpg "🟥 avatar")
 
 * 👨🏻‍💻 Person: [Maciej Matiaszowski](https://stagyrite.github.io/ "Stagyrite &#124; Private Homepage")
 * ⌛ Date: May 30, 2024
