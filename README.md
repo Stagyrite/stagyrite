@@ -19,7 +19,7 @@
 * 🗺️ Location: [Oracle University](https://www.oracle.com/education/ "Oracle University")
 * 👨🏻‍💻 Person: [Maciej Matiaszowski](https://stagyrite.github.io/ "Stagyrite &#124; Private Homepage")
 * 📈 Tasks: [ORACLE Certified Associate, JAVA SE 8 Programmer](https://catalog-education.oracle.com/pls/certview/sharebadge?id=119D68447A8A3235F7FC3C87ACCA5DEA732C69A05A676D39979BDE45FDF81DE1 "Oracle Certified Associate, Java SE 8 Programmer")
-* 🔜 Next step: [OCP](https://en.wikipedia.org/wiki/List_of_professional_designations_in_the_United_States "List of professional designations in the United States - Wikipedia") 
+* 🔜 In the next step: [OCP](https://en.wikipedia.org/wiki/List_of_professional_designations_in_the_United_States "List of professional designations in the United States - Wikipedia") 
 
 ---
 
