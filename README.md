@@ -1,6 +1,6 @@
-## ["Professional", "Certifications"] | stdout
+## ["", "Certifications"] | stdout
 
-### ["My", "Certifications"] | stdout
+### ["Professional", "Certifications"] | stdout
 
 [![box](box.png)](bigBox.jpg "🟥")
 
