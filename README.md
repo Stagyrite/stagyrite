@@ -4,11 +4,13 @@
 
 [![box](box.png)](bigBox.jpg "🟥")
 
-* ⌛ Dates:  December 13, 2023 🟥 May 30, 2024
+* ⌛ Dates: December 13, 2023; May 30, 2024
 * 🗺️ Location: [Oracle University](https://www.oracle.com/education/ "Oracle University")
 * 👨🏻‍💻 Person: [Maciej Matiaszowski](https://stagyrite.github.io/ "Stagyrite &#124; Private Homepage")
-* 📈 Tasks: [ORACLE Certified Associate, JAVA SE 8 Programmer](https://catalog-education.oracle.com/pls/certview/sharebadge?id=119D68447A8A3235F7FC3C87ACCA5DEA732C69A05A676D39979BDE45FDF81DE1 "Oracle Certified Associate, Java SE 8 Programmer") 🟥 [ORACLE Guided Learning Content Developer Certified Foundations Associate Rel 1](https://catalog-education.oracle.com/ords/certview/sharebadge?id=3AB2E4CF9E181338D818FFF48176B5C727485638C10CE19F4BB51C34E65A70C2 "Oracle Guided Learning Content Developer Certified Foundations Associate Rel 1")
-* 🔜 Preplanned: [OCP](https://en.wikipedia.org/wiki/List_of_professional_designations_in_the_United_States "List of professional designations in the United States - Wikipedia") 
+* 📈 Tasks:
+  - [x] [ORACLE Certified Associate, JAVA SE 8 Programmer](https://catalog-education.oracle.com/pls/certview/sharebadge?id=119D68447A8A3235F7FC3C87ACCA5DEA732C69A05A676D39979BDE45FDF81DE1 "Oracle Certified Associate, Java SE 8 Programmer")
+  - [x] [ORACLE Guided Learning Content Developer Certified Foundations Associate Rel 1](https://catalog-education.oracle.com/ords/certview/sharebadge?id=3AB2E4CF9E181338D818FFF48176B5C727485638C10CE19F4BB51C34E65A70C2 "Oracle Guided Learning Content Developer Certified Foundations Associate Rel 1")
+  - [ ] [OCP](https://en.wikipedia.org/wiki/List_of_professional_designations_in_the_United_States "List of professional designations in the United States - Wikipedia") 
 
 ### ["Skills in", "Certifications"] | stdout
 
