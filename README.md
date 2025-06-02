@@ -2,7 +2,7 @@
 
 ### 💎 ["Professional", "Certifications"] | stdout
 
-[![box](box.png)](bigBox.jpg "🟥")
+[![box](box.png)](bigBox.jpg "⬛⬛⬛🟥⬛")
 
 * ⌛ **Dates:** December 13, 2023; May 30, 2024
 * 🗺️ **Location:** [Oracle University](https://www.oracle.com/education/ "Oracle University")
