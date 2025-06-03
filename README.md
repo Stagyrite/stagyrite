@@ -32,7 +32,7 @@
 | 1️⃣3️⃣ | 🍅 | Creating and Configuring Guides |
 | 1️⃣4️⃣ | 🍅 | Using Guide Settings |
 | 1️⃣5️⃣ | 🍅 | Applying Advanced Settings |
-| 1️⃣6️⃣ | 🍅 | Applying Activation Conditions |
+| 1️⃣6️⃣ | ⚛️ | Applying Activation Conditions |
 
 ---
 
