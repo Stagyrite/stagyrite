@@ -4,7 +4,7 @@
 
 [![box](box.png)](bigBox.jpg "⬛⬛⬛🟥⬛")
 
-* ⌛ **Dates:** December 13, 2023; May 30, 2024
+* ⌛ **Time Range:** 2023-2024
 * 🗺️ **Location:** [Oracle University](https://www.oracle.com/education/ "Oracle University")
 * 👨🏻‍💻 **Person:** [Maciej Matiaszowski](https://stagyrite.github.io/ "Stagyrite &#124; Private Homepage")
 * 📈 **Tasks:**
