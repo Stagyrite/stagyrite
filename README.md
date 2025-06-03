@@ -29,7 +29,7 @@
 | 🔟 | 🍅 | Guide Status |
 | 1️⃣1️⃣ | 🍅 | Applying Guide Settings |
 | 1️⃣2️⃣ | ⚛️ | Working with OGL Content Types |
-| 1️⃣3️⃣ | 🍅 | Creating and Configuring Guides |
+| 1️⃣3️⃣ | 🍅 | **Creating and Configuring Guides** |
 | 1️⃣4️⃣ | 🍅 | Using Guide Settings |
 | 1️⃣5️⃣ | 🍅 | Applying Advanced Settings |
 | 1️⃣6️⃣ | ⚛️ | Applying Activation Conditions |
