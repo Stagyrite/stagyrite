@@ -2,9 +2,9 @@
 
 ### 💎 ["Professional", "Certifications"] | stdout
 
-[![box](box.png)](bigBox.jpg "⬛⬛⬛🟥⬛")
+[![box](box.png)](bigBox.jpg "🟥⬛")
 
-* ⌛ **Time Range:** 2023-2024
+* ⌛ **Time Range:** 2023-2025
 * 🗺️ **Location:** [Oracle University](https://www.oracle.com/education/ "Oracle University")
 * 👨🏻‍💻 **Person:** [Maciej Matiaszowski](https://stagyrite.github.io/ "Stagyrite &#124; Private Homepage")
 * 📈 **Tasks:**
