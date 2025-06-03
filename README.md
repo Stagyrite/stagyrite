@@ -23,16 +23,16 @@
 | 4️⃣ | [👨🏼‍💻](https://docs.oracle.com/javase/8/docs/api/ "Overview (Java Platform SE 8 )") | [Java SE 8](https://docs.oracle.com/javase/8/docs/api/ "Overview (Java Platform SE 8 )") |
 | 5️⃣ | [👨‍💻](https://github.com/Stagyrite/dust "Stagyrite/dust: 🎮 a dungeon-crawling game ported to 3DS") | [**JDK 8**](https://github.com/Stagyrite/dust "Stagyrite/dust: 🎮 a dungeon-crawling game ported to 3DS")  |
 | 6️⃣ | [λ𝑥.𝑥](https://docs.oracle.com/javase/8/docs/api/java/util/function/Predicate.html "Predicate (Java Platform SE 8 )") | [Lambda Expressions](https://docs.oracle.com/javase/8/docs/api/java/util/function/Predicate.html "Predicate (Java Platform SE 8 )") |
-| 7️⃣ | 🤖 | Accessing and Navigating the OGL Console |
-| 8️⃣ | 🤖 | Working with OGL Views |
-| 9️⃣ | 🤖 | Guide Tile elements |
-| 🔟 | 🤖 | Guide Status |
-| 1️⃣1️⃣ | 🤖 | Applying Guide Settings |
-| 1️⃣2️⃣ | 🤖 | Working with OGL Content Types |
-| 1️⃣3️⃣ | 🤖 | Creating and Configuring Guides |
-| 1️⃣4️⃣ | 🤖 | Using Guide Settings |
-| 1️⃣5️⃣ | 🤖 | Applying Advanced Settings |
-| 1️⃣6️⃣ | 🤖 | Applying Activation Conditions |
+| 7️⃣ | ⚛️ | Accessing and Navigating the OGL Console |
+| 8️⃣ | 🍅 | Working with OGL Views |
+| 9️⃣ | ⚛️ | Guide Tile elements |
+| 🔟 | 🍅 | Guide Status |
+| 1️⃣1️⃣ | 🍅 | Applying Guide Settings |
+| 1️⃣2️⃣ | ⚛️ | Working with OGL Content Types |
+| 1️⃣3️⃣ | 🍅 | Creating and Configuring Guides |
+| 1️⃣4️⃣ | 🍅 | Using Guide Settings |
+| 1️⃣5️⃣ | 🍅 | Applying Advanced Settings |
+| 1️⃣6️⃣ | 🍅 | Applying Activation Conditions |
 
 ---
 
