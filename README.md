@@ -17,13 +17,13 @@
 
 | 🔢 | 🎯 | Skill |
 | :---: | :---: | :---: |
-| 0️⃣ | 💎 | ["Preplanning", "Certifications"] \| stdout |
 | 1️⃣ | [👩‍💻](https://www.theserverside.com/ "TheServerSide &#124; Your Java Community discussing server side development") | [Java](https://www.theserverside.com/ "TheServerSide &#124; Your Java Community discussing server side development") |
 | 2️⃣ | [🕜](https://docs.oracle.com/javase/8/docs/api/java/time/Clock.html "Clock (Java Platform SE 8 )") | [Java 8 Date And Time API](https://docs.oracle.com/javase/8/docs/api/java/time/Clock.html "Clock (Java Platform SE 8 )") |
 | 3️⃣ |  [🧑🏻‍💻](https://github.com/kironia/99balloons "kironia/99balloons: 🎈 balloon shooting game") |[**Java Application Development**](https://github.com/kironia/99balloons "kironia/99balloons: 🎈 balloon shooting game") |
 | 4️⃣ | [👨🏼‍💻](https://docs.oracle.com/javase/8/docs/api/ "Overview (Java Platform SE 8 )") | [Java SE 8](https://docs.oracle.com/javase/8/docs/api/ "Overview (Java Platform SE 8 )") |
 | 5️⃣ | [👨‍💻](https://github.com/Stagyrite/dust "Stagyrite/dust: 🎮 a dungeon-crawling game ported to 3DS") | [**JDK 8**](https://github.com/Stagyrite/dust "Stagyrite/dust: 🎮 a dungeon-crawling game ported to 3DS")  |
 | 6️⃣ | [λ𝑥.𝑥](https://docs.oracle.com/javase/8/docs/api/java/util/function/Predicate.html "Predicate (Java Platform SE 8 )") | [Lambda Expressions](https://docs.oracle.com/javase/8/docs/api/java/util/function/Predicate.html "Predicate (Java Platform SE 8 )") |
+| 7️⃣ | 💎 | ["Preplanning", "Certifications"] \| stdout |
 
 ---
 
