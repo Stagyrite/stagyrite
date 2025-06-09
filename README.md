@@ -2,7 +2,7 @@
 
 ### 💎 ["Professional", "Certifications"] | stdout
 
-[![box](box.png)](bigBox.jpg "🟥")
+[![box](box.png)](https://eltikia.github.io/eltikia/ "Java skills &#124; Stagyrite")
 
 * ⌛ **Time Range:** 2023-2025
 * 🗺️ **Location:** [Oracle University](https://www.oracle.com/education/ "Oracle University")
