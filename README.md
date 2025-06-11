@@ -6,7 +6,6 @@ $ streem
 x = "Certifications"
 ["", x, "Professional", x, "Skills in", x] | stdout
 
-
 Certifications
 Professional
 Certifications
