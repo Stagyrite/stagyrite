@@ -1,6 +1,20 @@
-## 💎 ["", "Certifications"] | stdout
+## ["", "Certifications"] | stdout
 
-### 💎 ["Professional", "Certifications"] | stdout
+```
+$ streem
+# speaking Streem
+x = "Certifications"
+["", x, "Professional", x, "Skills in", x] | stdout
+
+
+Certifications
+Professional
+Certifications
+Skills in
+Certifications
+```
+
+### ["Professional", "Certifications"] | stdout
 
 [![box](box.png)](https://eltikia.github.io/eltikia/ "Java skills &#124; Stagyrite")
 
@@ -13,7 +27,7 @@
   - [ ] [OCP](https://en.wikipedia.org/wiki/List_of_professional_designations_in_the_United_States "List of professional designations in the United States - Wikipedia") 
   - [ ] [OCD](https://en.wikipedia.org/wiki/List_of_professional_designations_in_the_United_States "List of professional designations in the United States - Wikipedia") 
 
-### 💎 ["Skills in", "Certifications"] | stdout
+### ["Skills in", "Certifications"] | stdout
 
 | 🔢 | 🎯 | Skill |
 | :---: | :---: | :---: |
@@ -27,4 +41,4 @@
 
 ---
 
-💎 [\["𝑋", "Certifications"\] \| stdout](https://stagyrite.github.io/stagyrite/ "Stagyrite &#124; Profile")
+[\["𝑋", "Certifications"\] \| stdout](https://stagyrite.github.io/stagyrite/ "Stagyrite &#124; Profile")
