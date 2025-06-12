@@ -4,11 +4,13 @@
 $ streem
 # speaking Streem
 x = "Certifications"
-["", x, "Professional", x, "Skills in", x] | stdout
+["", x, "", "Professional", x, "", "Skills in", x] | stdout
 
 Certifications
+
 Professional
 Certifications
+
 Skills in
 Certifications
 ```
