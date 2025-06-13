@@ -23,7 +23,6 @@
 | 4️⃣ | 💎 | ["Preplanning", "Certifications"] \| stdout |
 
 ```
-$ streem
 # speaking Streem
 ["", "Professional", "Skills in"] | each{s ->
   ["", s, "Certifications"] | stdout
