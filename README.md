@@ -1,20 +1,5 @@
 ## ["", "Certifications"] | stdout
 
-```
-$ streem
-# speaking Streem
-x = "Certifications"
-["", x, "", "Professional", x, "", "Skills in", x] | stdout
-
-Certifications
-
-Professional
-Certifications
-
-Skills in
-Certifications
-```
-
 ### ["Professional", "Certifications"] | stdout
 
 [![box](box.png)](https://eltikia.github.io/eltikia/ "Java skills &#124; Stagyrite")
@@ -39,6 +24,23 @@ Certifications
 | 5️⃣ | [👨‍💻](https://github.com/Stagyrite/dust "Stagyrite/dust: 🎮 a dungeon-crawling game ported to 3DS") | [**JDK 8**](https://github.com/Stagyrite/dust "Stagyrite/dust: 🎮 a dungeon-crawling game ported to 3DS")  |
 | 6️⃣ | [λ𝑥.𝑥](https://docs.oracle.com/javase/8/docs/api/java/util/function/Predicate.html "Predicate (Java Platform SE 8 )") | [Lambda Expressions](https://docs.oracle.com/javase/8/docs/api/java/util/function/Predicate.html "Predicate (Java Platform SE 8 )") |
 | 7️⃣ | 💎 | ["Preplanning", "Certifications"] \| stdout |
+
+```
+$ streem
+# speaking Streem
+["", "Professional", "Skills in"] | each{s ->
+  ["", s, "Certifications"] | stdout
+}
+
+
+Certifications
+
+Professional
+Certifications
+
+Skills in
+Certifications
+```
 
 ---
 
