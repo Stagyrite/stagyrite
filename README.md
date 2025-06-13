@@ -28,6 +28,8 @@ empty = ""
 [empty, "Professional", "Skills in"] | each{s ->
   [empty, s, "Certifications"] | stdout
 }
+# end with echo
+stdin | stdout
 ```
 
 ---
