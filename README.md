@@ -1,6 +1,6 @@
-## ["", "Certifications"] | stdout
+## Certifications
 
-### ["Professional", "Certifications"] | stdout
+### Professional certifications
 
 [![box](box.png)](https://eltikia.github.io/eltikia/ "Java skills &#124; Stagyrite")
 
@@ -13,14 +13,14 @@
   - [ ] [OCP](https://en.wikipedia.org/wiki/List_of_professional_designations_in_the_United_States "List of professional designations in the United States - Wikipedia") 
   - [ ] [OCD](https://en.wikipedia.org/wiki/List_of_professional_designations_in_the_United_States "List of professional designations in the United States - Wikipedia") 
 
-### ["Skills in", "Certifications"] | stdout
+### Skills in certifications
 
 | 🔢 | 🎯 | Skill |
 | :---: | :---: | :---: |
 | 1️⃣ | [🧑🏻‍💻](https://www.theserverside.com/ "TheServerSide &#124; Your Java Community discussing server side development") | [Java](https://www.theserverside.com/ "TheServerSide &#124; Your Java Community discussing server side development") |
 | 2️⃣ | [🕜](https://docs.oracle.com/javase/8/docs/api/java/time/Clock.html "Clock (Java Platform SE 8 )") | [Java 8 Date And Time API](https://docs.oracle.com/javase/8/docs/api/java/time/Clock.html "Clock (Java Platform SE 8 )") |
 | 3️⃣ | [λ𝑥.𝑥](https://docs.oracle.com/javase/8/docs/api/java/util/function/Predicate.html "Predicate (Java Platform SE 8 )") | [Lambda Expressions](https://docs.oracle.com/javase/8/docs/api/java/util/function/Predicate.html "Predicate (Java Platform SE 8 )") |
-| 4️⃣ | 💎 | ["Preplanning", "Certifications"] \| stdout |
+| 4️⃣ | 🚀 | Preplanning certifications |
 
 ```
 # speaking Streem
@@ -31,4 +31,4 @@
 
 ---
 
-[\["𝑋", "Certifications"\] \| stdout](https://stagyrite.github.io/stagyrite/ "Stagyrite &#124; Profile")
+💎 [\["𝑋", "Certifications"\] \| stdout](https://stagyrite.github.io/stagyrite/ "Stagyrite &#124; Profile")
