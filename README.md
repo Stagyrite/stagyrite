@@ -24,11 +24,11 @@
 
 ```
 # speaking Streem
-["", "Professional", "Skills in"] | each{s ->
-  ["", s, "Certifications"] | stdout
+empty = ""
+[empty, "Professional", "Skills in"] | each{s ->
+  [empty, s, "Certifications"] | stdout
 }
 ```
 
 ---
-
-💎 [\["𝑋", "Certifications"\] \| stdout](https://stagyrite.github.io/stagyrite/ "Stagyrite &#124; Profile")
+[Maciej Matiaszowski](https://stagyrite.github.io/stagyrite "Certifications &#124; Stagyrite")
