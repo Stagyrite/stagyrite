@@ -26,7 +26,7 @@
 # speaking Streem
 prepend = { a -> concat([""], a) } # add empty prefix
 prepend(["Professional", "Common in"]) | each{s ->
-  prepend([s, "Certifications"]) | stdout
+  prepend([s, "certifications"]) | stdout
 }
 ```
 
