@@ -24,10 +24,17 @@
 
 ```ruby
 # speaking Streem
-prepend = { a -> concat([""], a) } # add empty prefix
-prepend(["Professional", "Common in"]) | each{s ->
-  prepend([s, "certifications"]) | stdout
-}
+#
+# output:
+# -- Certifications --
+# [*] OCA
+# [*] OCP
+# [*] OCD
+
+tasksCsv = "OCA,OCP,OCD"
+tasks = split(tasksCsv, ",") | map { x -> "[*] " + x }
+header = ["-- Certifications --"]
+concat(header, tasks) | stdout
 ```
 
 ---
