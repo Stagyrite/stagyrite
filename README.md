@@ -23,7 +23,7 @@
 | 5️⃣ | [λ𝑥.𝑥](https://docs.oracle.com/javase/8/docs/api/java/util/function/Predicate.html "Predicate (Java Platform SE 8 )") | [Lambda Expressions](https://docs.oracle.com/javase/8/docs/api/java/util/function/Predicate.html "Predicate (Java Platform SE 8 )") |
 
 ```ruby
-# speaking Streem
+# 💎 speaking Streem
 #
 # output:
 # -- Certifications --
