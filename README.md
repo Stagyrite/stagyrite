@@ -33,8 +33,8 @@
 
 tasksCsv = "OCA,OCP,OCD"
 tasks = split(tasksCsv, ",") | map { x -> "[*] " + x }
-header = ["-- Certifications --"]
-concat(header, tasks) | stdout
+print("-- Certifications --")
+tasks | stdout
 ```
 
 ---
