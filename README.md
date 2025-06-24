@@ -17,10 +17,10 @@
 | 🔢 | 🎯 | Skill |
 | :---: | :---: | :---: |
 | 1️⃣ | [🧑🏻‍💻](https://www.theserverside.com/ "TheServerSide &#124; Your Java Community discussing server side development") | [Java](https://www.theserverside.com/ "TheServerSide &#124; Your Java Community discussing server side development") |
-| 2️⃣ | [🕜](https://docs.oracle.com/javase/8/docs/api/java/time/Clock.html "Clock (Java Platform SE 8 )") | [Java 8 Date And Time API](https://docs.oracle.com/javase/8/docs/api/java/time/Clock.html "Clock (Java Platform SE 8 )") |
+| 2️⃣ | 🕜 | Java 8 Date And Time API |
 | 3️⃣ | ☕ | Java SE 8 |
 | 4️⃣ | 🧰 | JDK 8 |
-| 5️⃣ | [λ𝑥.𝑥](https://docs.oracle.com/javase/8/docs/api/java/util/function/Predicate.html "Predicate (Java Platform SE 8 )") | [Lambda Expressions](https://docs.oracle.com/javase/8/docs/api/java/util/function/Predicate.html "Predicate (Java Platform SE 8 )") |
+| 5️⃣ | λ𝑥.𝑥 | Lambda Expressions |
 
 ```ruby
 # 💎 speaking Streem
