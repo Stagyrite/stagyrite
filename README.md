@@ -12,20 +12,10 @@
   - [x] [Oracle Certified Professional, Java SE 8 Programmer](https://catalog-education.oracle.com/pls/certview/sharebadge?id=9975082503C1283F2B41AA028D2DFA4763196DD3CB7F09D0B0D7BF65DCFCEABA "Oracle Certified Professional, Java SE 8 Programmer") 
   - [ ] (Optional) [Oracle Certified Developer](https://en.wikipedia.org/wiki/List_of_professional_designations_in_the_United_States#IT_industry "List of professional designations in the United States - Wikipedia") 
 
-### Common in certifications
-
-| 🔢 | 🎯 | Skill |
-| :---: | :---: | :---: |
-| 1️⃣ | [🧑🏻‍💻](https://www.theserverside.com/ "TheServerSide &#124; Your Java Community discussing server side development") | [Java](https://www.theserverside.com/ "TheServerSide &#124; Your Java Community discussing server side development") |
-| 2️⃣ | 🕜 | Java 8 Date And Time API |
-| 3️⃣ | ☕ | Java SE 8 |
-| 4️⃣ | 🧰 | JDK 8 |
-| 5️⃣ | λ𝑥.𝑥 | Lambda Expressions |
+#### Speaking Streem 💎
 
 ```ruby
-# 💎 speaking Streem
-#
-# output:
+# Output:
 # -- Certifications --
 # [*] OCA
 # [*] OCP
@@ -36,6 +26,16 @@ tasks = split(tasksCsv, ",") | map { x -> "[*] " + x }
 print("-- Certifications --")
 tasks | stdout
 ```
+
+### Common in certifications
+
+| 🔢 | 🎯 | Skill |
+| :---: | :---: | :---: |
+| 1️⃣ | [🧑🏻‍💻](https://www.theserverside.com/ "TheServerSide &#124; Your Java Community discussing server side development") | [Java](https://www.theserverside.com/ "TheServerSide &#124; Your Java Community discussing server side development") |
+| 2️⃣ | 🕜 | Java 8 Date And Time API |
+| 3️⃣ | ☕ | Java SE 8 |
+| 4️⃣ | 🧰 | JDK 8 |
+| 5️⃣ | λ𝑥.𝑥 | Lambda Expressions |
 
 ---
 [Maciej Matiaszowski](https://stagyrite.github.io/stagyrite "Certifications &#124; Stagyrite")
