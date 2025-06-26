@@ -21,9 +21,9 @@
 # [*] OCP
 # [*] OCD
 
+print("-- Certifications --")
 tasksCsv = "OCA,OCP,OCD"
 tasks = split(tasksCsv, ",") | map { x -> "[*] " + x }
-print("-- Certifications --")
 tasks | stdout
 ```
 
