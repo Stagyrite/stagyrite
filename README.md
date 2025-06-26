@@ -38,4 +38,4 @@ tasks | stdout
 | 5️⃣ | λ𝑥.𝑥 | Lambda Expressions |
 
 ---
-[Maciej Matiaszowski](https://stagyrite.github.io/stagyrite "Certifications &#124; Stagyrite")
+[Stagyrite](https://stagyrite.github.io/stagyrite "Certifications &#124; Stagyrite")
