@@ -22,7 +22,7 @@
 | 4️⃣ | 🧰 | JDK 8 |
 | 5️⃣ | λ𝑥.𝑥 | Lambda Expressions |
 
-#### Speaking Streem 💎♦️
+#### Speaking Streem
 
 ```ruby
 # Output:
@@ -31,10 +31,11 @@
 # [*] OCP
 # [*] OCD
 
-print("-- Certifications --")
+check = map { x -> "[*] " + x } # λ𝑥.𝑥
 tasks = split("OCA,OCP,OCD", ",")
-# inspired by Java λ𝑥.𝑥
-tasks | map { x -> "[*] " + x } | stdout
+
+print("-- Certifications --")
+tasks | check | stdout
 ```
 
 ---
