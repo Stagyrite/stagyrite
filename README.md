@@ -33,7 +33,6 @@
 
 check = map { x -> "[*] " + x } # λ𝑥.𝑥
 tasks = split("OCA,OCP,OCD", ",")
-
 print("-- Certifications --")
 tasks | check | stdout
 ```
