@@ -12,20 +12,6 @@
   - [x] [Oracle Certified Professional, Java SE 8 Programmer](https://catalog-education.oracle.com/pls/certview/sharebadge?id=9975082503C1283F2B41AA028D2DFA4763196DD3CB7F09D0B0D7BF65DCFCEABA "Oracle Certified Professional, Java SE 8 Programmer") 
   - [ ] (Optional) [Oracle Certified Developer](https://en.wikipedia.org/wiki/List_of_professional_designations_in_the_United_States#IT_industry "List of professional designations in the United States - Wikipedia") 
 
-```ruby
-# speaking Streem 💎♦️
-#
-# Output:
-# -- Certifications --
-# [*] OCA
-# [*] OCP
-# [*] OCD
-
-print("-- Certifications --")
-tasks = split("OCA,OCP,OCD", ",")
-tasks | map { x -> "[*] " + x } | stdout
-```
-
 ### Common in certifications
 
 | 🔢 | 🎯 | Skill |
@@ -35,6 +21,21 @@ tasks | map { x -> "[*] " + x } | stdout
 | 3️⃣ | ☕ | Java SE 8 |
 | 4️⃣ | 🧰 | JDK 8 |
 | 5️⃣ | λ𝑥.𝑥 | Lambda Expressions |
+
+#### Speaking Streem 💎♦️
+
+```ruby
+# Output:
+# -- Certifications --
+# [*] OCA
+# [*] OCP
+# [*] OCD
+
+print("-- Certifications --")
+tasks = split("OCA,OCP,OCD", ",")
+# inspired by Java λ𝑥.𝑥
+tasks | map { x -> "[*] " + x } | stdout
+```
 
 ---
 [Stagyrite](https://stagyrite.github.io/stagyrite "Certifications &#124; Stagyrite")
