@@ -26,14 +26,14 @@
 
 ```ruby
 # Output:
-# -- Certifications --
-# [*] OCA
-# [*] OCP
-# [*] OCD
+# — Certifications —
+# ✔️ OCA
+# ✔️ OCP
+# ✔️ OCD
 
-tick = map { x -> "[*] " + x } # λ𝑥.𝑥
+tick = map { x -> "✔️ " + x } # λ𝑥.𝑥
 tasks = split("OCA,OCP,OCD", ",")
-print("-- Certifications --")
+print("— Certifications —")
 tasks | tick | stdout
 ```
 
