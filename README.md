@@ -16,7 +16,7 @@
 
 | 🔢 | 🎯 | Skill |
 | :---: | :---: | :---: |
-| 1️⃣ | [🧑🏻‍💻](https://x.com/effconia/status/1938359274297794579 "Maciej Matiaszowski on X: &quot;@svt110617 @Oracle_Edu 📚 📖 First, I read three books about @java by @barryburdtweets, @dleuck, and @trisha_gee. Then, I decided to get certified, read the study and exam guides by @jeanneboyarsky and passed the @Enthuware tests. Regarding the OCP, @BrianGoetz wrote about concurrency. #OracleCertified&quot; / X") | [Java](https://x.com/effconia/status/1938359274297794579 "Maciej Matiaszowski on X: &quot;@svt110617 @Oracle_Edu 📚 📖 First, I read three books about @java by @barryburdtweets, @dleuck, and @trisha_gee. Then, I decided to get certified, read the study and exam guides by @jeanneboyarsky and passed the @Enthuware tests. Regarding the OCP, @BrianGoetz wrote about concurrency. #OracleCertified&quot; / X") |
+| 1️⃣ | [📚](https://x.com/effconia/status/1938359274297794579 "Maciej Matiaszowski on X: &quot;@svt110617 @Oracle_Edu 📚 📖 First, I read three books about @java by @barryburdtweets, @dleuck, and @trisha_gee. Then, I decided to get certified, read the study and exam guides by @jeanneboyarsky and passed the @Enthuware tests. Regarding the OCP, @BrianGoetz wrote about concurrency. #OracleCertified&quot; / X") | [Java](https://x.com/effconia/status/1938359274297794579 "Maciej Matiaszowski on X: &quot;@svt110617 @Oracle_Edu 📚 📖 First, I read three books about @java by @barryburdtweets, @dleuck, and @trisha_gee. Then, I decided to get certified, read the study and exam guides by @jeanneboyarsky and passed the @Enthuware tests. Regarding the OCP, @BrianGoetz wrote about concurrency. #OracleCertified&quot; / X") |
 | 2️⃣ | 🕜 | Java 8 Date And Time API |
 | 3️⃣ | ☕ | Java SE 8 |
 | 4️⃣ | 🧰 | JDK 8 |
