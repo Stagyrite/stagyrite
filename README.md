@@ -30,10 +30,10 @@
 # ☐ OCP
 # ☐ OCM
 
-tick = map { x -> "☐ " + x } # λ𝑥.𝑥
-tasks = split("OCA,OCP,OCM", ",")
+prepend = map { x -> "☐ " + x } # λ𝑥.𝑥
+certs = split("OCA,OCP,OCM", ",")
 print("— Certifications —")
-tasks | tick | stdout
+certs | prepend | stdout
 ```
 
 ---
