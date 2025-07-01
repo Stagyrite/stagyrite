@@ -31,9 +31,9 @@
 # ☐ OCM
 
 prepend = map { x -> "☐ " + x } # λ𝑥.𝑥
-certs = split("OCA,OCP,OCM", ",")
+letters = split("OCA,OCP,OCM", ",")
 print("— Certifications —")
-certs | prepend | stdout
+letters | prepend | stdout
 ```
 
 ---
