@@ -25,14 +25,16 @@
 
 ```ruby
 # Output:
-# — Certifications —
+# — Certification —
 # ☐ OCA
 # ☐ OCP
 # ☐ OCM
+# ☐ OCE
+# ☐ OCS
 
-prepend = map { x -> "☐ " + x } # λ𝑥.𝑥
-letters = split("OCA,OCP,OCM", ",")
-print("— Certifications —")
+prepend = map { x -> "☐ OC" + x } # λ𝑥.𝑥
+letters = split("A,P,M,E,S", ",")
+print("— Certification —")
 letters | prepend | stdout
 ```
 
