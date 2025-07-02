@@ -26,13 +26,13 @@
 ```ruby
 # Output:
 # — Certification —
-# 🎞 OCS
-# 🎞 OCE
-# 🎞 OCM
-# 🎞 OCP
-# 🎞 OCA
+# 🚀 OCS
+# 🚀 OCE
+# 🚀 OCM
+# 🚀 OCP
+# 🚀 OCA
 
-prepend = map { x -> "🎞 OC" + x } # λ𝑥.𝑥
+prepend = map { x -> "🚀 OC" + x } # λ𝑥.𝑥
 letters = split("S,E,M,P,A", ",")
 print("— Certification —")
 letters | prepend | stdout
