@@ -33,9 +33,9 @@
 # 🚀 OCA
 
 prepend = map { x -> "🚀 OC" + x } # λ𝑥.𝑥
-letters = split("S,E,M,P,A", ",")
+sempa = split("S,E,M,P,A", ",")
 print("— Certification —")
-letters | prepend | stdout
+sempa | prepend | stdout
 ```
 
 ---
