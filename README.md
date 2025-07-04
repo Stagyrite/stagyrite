@@ -1,6 +1,4 @@
-## Certifications
-
-### Professional certifications
+## Professional Certifications
 
 [![box](box.png)](https://eltikia.github.io/eltikia/ "Java skills &#124; Stagyrite")
 
@@ -11,7 +9,7 @@
   - [x] [Oracle Certified Professional, Java SE 8 Programmer](https://catalog-education.oracle.com/pls/certview/sharebadge?id=9975082503C1283F2B41AA028D2DFA4763196DD3CB7F09D0B0D7BF65DCFCEABA "Oracle Certified Professional, Java SE 8 Programmer") 
   - [x] [Oracle Certified Associate, Java SE 8 Programmer](https://catalog-education.oracle.com/pls/certview/sharebadge?id=119D68447A8A3235F7FC3C87ACCA5DEA732C69A05A676D39979BDE45FDF81DE1 "Oracle Certified Associate, Java SE 8 Programmer")
 
-#### Common in certifications
+### Common in certifications
 
 | 🔢 | 🎯 | Skill |
 | :---: | :---: | :---: |
