@@ -39,4 +39,4 @@ sempa | prepend | stdout
 ```
 
 ---
-[Stagyrite](https://stagyrite.github.io/stagyrite "Certifications &#124; Stagyrite")
+\["[@Stagyrite](https://stagyrite.github.io/stagyrite "Certifications &#124; Stagyrite")"\] | stdout
