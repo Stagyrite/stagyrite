@@ -1,4 +1,4 @@
-## Certifications
+## Certification
 
 [![colorized box](box.png)](https://eltikia.github.io/eltikia/ "Java skills &#124; Stagyrite")
 
@@ -26,7 +26,7 @@ print("— Certification —")
 sempa | prepend | stdout
 ```
 
-#### Common in certifications
+#### Java skills
 
 | 🔢 | 🎯 | Skill |
 | :---: | :---: | :---: |
@@ -35,6 +35,10 @@ sempa | prepend | stdout
 | 3️⃣ | ☕ | Java SE 8 |
 | 4️⃣ | 🧰 | JDK 8 |
 | 5️⃣ | λ𝑥.𝑥 | Lambda Expressions |
+| 6️⃣ | 🚂 | Concurrency |
+| 7️⃣ | 🐪 | Regular Expressions |
+| 8️⃣ | 💎 | Stream API |
+| 9️⃣ | 📍 | Localization |
 
 ---
 \["[@Stagyrite](https://stagyrite.github.io/stagyrite "Certifications &#124; Stagyrite")"\] \| stdout
