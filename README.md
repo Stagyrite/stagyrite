@@ -35,9 +35,9 @@ sempa | prepend | stdout
 | 3️⃣ | ☕ | Java SE 8 |
 | 4️⃣ | 🧰 | JDK 8 |
 | 5️⃣ | λ𝑥.𝑥 | Lambda Expressions |
-| 6️⃣ | 🚂 | Concurrency |
-| 7️⃣ | 🐪 | Regular Expressions |
-| 8️⃣ | 💎 | Stream API |
+| 6️⃣ | 🚂 | [Concurrency](https://www.udemy.com/certificate/UC-d9586c29-4504-4435-89a0-6825bed3dd83/ "Udemy Course Completion Certificate &#124; Udemy") |
+| 7️⃣ | 📁 | [Java NIO.2 API](https://www.udemy.com/certificate/UC-babb4eaf-6b2c-4302-9f45-244e0da4ad27/ "Udemy Course Completion Certificate &#124; Udemy") |
+| 8️⃣ | 🌊 | Stream API |
 | 9️⃣ | 📍 | Localization |
 
 ---
