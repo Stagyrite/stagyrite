@@ -26,7 +26,7 @@ print("— Certification —")
 sempa | prepend | stdout
 ```
 
-#### Java skills
+#### Skills in Java
 
 | 🔢 | 🎯 | Skill |
 | :---: | :---: | :---: |
