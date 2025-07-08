@@ -41,4 +41,4 @@ sempa | prepend | stdout
 | 9️⃣ | 📍 | Localization |
 
 ---
-\["[@Stagyrite](https://stagyrite.github.io/stagyrite "Certifications &#124; Stagyrite")", "[@eltikia](https://eltikia.github.io/eltikia/ "Java skills  &#124; Eltikia")", "[@kironia](https://kironia.github.io/kironia/ "Java skills  &#124; Kironia")"\] \| stdout
+\["[@Stagyrite](https://stagyrite.github.io/stagyrite "Certification &#124; Stagyrite")", "[@eltikia](https://eltikia.github.io/eltikia/ "Java skills  &#124; Eltikia")", "[@kironia](https://kironia.github.io/kironia/ "Java skills  &#124; Kironia")"\] \| stdout
