@@ -21,7 +21,8 @@
 # 🚀 OCA
 
 prepend = map { x -> "🚀 OC" + x } # λ𝑥.𝑥
-sempa = split("S,E,M,P,A", ",")
+splitCsv = { x -> split(x, ",") }
+sempa = splitCsv("S,E,M,P,A")
 print("— Certification —")
 sempa | prepend | stdout
 ```
