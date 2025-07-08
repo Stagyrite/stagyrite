@@ -1,4 +1,4 @@
-git## Certification
+## Certification
 
 [![colorized box](box.png)](https://eltikia.github.io/eltikia/ "Java skills &#124; Stagyrite")
 
@@ -41,4 +41,4 @@ sempa | prepend | stdout
 | 9️⃣ | 📍 | Localization |
 
 ---
-\["[@Stagyrite](https://stagyrite.github.io/stagyrite "Certifications &#124; Stagyrite")", "[@eltikia](https://eltikia.github.io/eltikia/ "Nostalgie-Ecke von Stagyrit")", "[@kironia](https://kironia.github.io/kironia/ "Surfen-Ecke von Stagyrit")"\] \| stdout
+\["[@Stagyrite](https://stagyrite.github.io/stagyrite "Certifications &#124; Stagyrite")", "[@eltikia](https://eltikia.github.io/eltikia/ "Java skills  &#124; Eltikia")", "[@kironia](https://kironia.github.io/kironia/ "Java skills  &#124; Kironia")"\] \| stdout
