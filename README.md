@@ -38,8 +38,8 @@ sempa | prepend | stdout
 | 5️⃣ | λ𝑥.𝑥 | Lambda Expressions |
 | 6️⃣ | 🚂 | [Concurrency](https://www.udemy.com/certificate/UC-d9586c29-4504-4435-89a0-6825bed3dd83/ "Udemy Course Completion Certificate &#124; Udemy") |
 | 7️⃣ | 📁 | [Java NIO.2 API](https://www.udemy.com/certificate/UC-babb4eaf-6b2c-4302-9f45-244e0da4ad27/ "Udemy Course Completion Certificate &#124; Udemy") |
-| 8️⃣ | 🌊 | Stream API |
-| 9️⃣ | 📍 | Localization |
+| 8️⃣ | 📍 | Localization |
+| 9️⃣ | 🌊 | Stream API |
 
 ---
-\["[@Stagyrite](https://stagyrite.github.io/stagyrite "Certification &#124; Stagyrite")", "[@eltikia](https://eltikia.github.io/eltikia/ "Java skills  &#124; Eltikia")", "[@kironia](https://kironia.github.io/kironia/ "Java skills  &#124; Kironia")"\] \| stdout
+\["[@Stagyrite](https://stagyrite.github.io/stagyrite "Certification &#124; Stagyrite")", "[@eltikia](https://eltikia.github.io/eltikia/ "Java skills  &#124; Eltikia")", "[@kironia](https://kironia.github.io/kironia/ "Java skills  &#124; Kironia")"\]
