@@ -20,11 +20,11 @@
 # 🚀 OCP
 # 🚀 OCA
 
-prepend = map { x -> "🚀 OC" + x } # λ𝑥.𝑥
+format = map { x -> "🚀 OC" + x } # λ𝑥.𝑥
 splitCsv = { x -> split(x, ",") }
 sempa = splitCsv("S,E,M,P,A")
 print("— Certification —")
-sempa | prepend | stdout
+sempa | format | stdout
 ```
 
 #### Skills in Java
