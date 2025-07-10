@@ -34,11 +34,10 @@
 # 🚀 OCP
 # 🚀 OCA
 
-format = map { x -> "🚀 OC" + x } # λ𝑥.𝑥
-splitCsv = { x -> split(x, ",") }
-sempa = splitCsv("S,E,M,P,A")
-print("— Certification —")
-sempa | format | stdout
+certificate = map { x -> "🚀 OC" + x } # λ𝑥.𝑥
+sempa = chars("SEMPA\0")
+puts("— Certification —")
+sempa | certificate | stdout
 ```
 
 ---
