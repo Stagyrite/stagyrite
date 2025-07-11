@@ -1,6 +1,6 @@
 ## Certification
 
-[![colorized box](box.png)](https://eltikia.github.io/eltikia/ "Java skills &#124; Stagyrite")
+![box](box.png)
 
 * ⌛ **Time Range:** 2024-2025
 * 🗺️ **Location:** [Oracle University](https://www.oracle.com/education/ "Oracle University")
