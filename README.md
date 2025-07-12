@@ -34,10 +34,10 @@
 # 🚀 OCP
 # 🚀 OCA
 
-certificate = map { x -> "🚀 OC" + x }
+certificate = map { x -> "🚀 OC" + x } # λ𝑥.𝑥
 sempa = chars("SEMPA\0")
 puts("— Certification —")
-sempa | certificate | stdout # λ𝑥.𝑥
+sempa | certificate | stdout
 ```
 
 ---
