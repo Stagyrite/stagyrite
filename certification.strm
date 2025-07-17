@@ -1,0 +1,13 @@
+puts("🦬 Certification 🦬")
+prepend = map { x -> "📜 OC" + x }
+sempa = chars("SEMPA\0")
+sempa | prepend | stdout
+
+# Output:
+# 🦬 Certification 🦬
+# 📜 OCS
+# 📜 OCE
+# 📜 OCM
+# 📜 OCP
+# 📜 OCA
+
