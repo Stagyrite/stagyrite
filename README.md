@@ -27,15 +27,15 @@
 
 ```ruby
 # Output:
-# 🗡️ Certification 🗡️
-# 🦇 OCS
-# 🦇 OCE
-# 🦇 OCM
-# 🦇 OCP
-# 🦇 OCA
+# 🦬 Certification 🦬
+# OCS
+# OCE
+# OCM
+# OCP
+# OCA
 
-puts("🗡️ Certification 🗡️")
-prepend = map { x -> "🦇 OC" + x }
+puts("🦬 Certification 🦬")
+prepend = map { x -> "OC" + x }
 sempa = chars("SEMPA\0")
 sempa | prepend | stdout
 ```
