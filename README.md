@@ -25,7 +25,7 @@
 
 #### Speaking Streem
 
-##### ./stream certify.strm
+##### ./stream certificates.strm
 
 ```ruby
 # Output:
