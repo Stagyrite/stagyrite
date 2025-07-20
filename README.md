@@ -25,9 +25,14 @@
 
 #### Speaking Streem
 
-##### ./stream certificates.strm
+##### ./stream 10certifications.strm
 
 ```ruby
+puts("🦬 Certification 🦬")
+prepend = map { x -> "💎 OC" + x }
+sempa = chars("SEMPA\0")
+sempa | prepend | stdout
+
 # Output:
 # 🦬 Certification 🦬
 # 💎 OCS
@@ -35,11 +40,6 @@
 # 💎 OCM
 # 💎 OCP
 # 💎 OCA
-
-puts("🦬 Certification 🦬")
-prepend = map { x -> "💎 OC" + x }
-sempa = chars("SEMPA\0")
-sempa | prepend | stdout
 ```
 
 ---
