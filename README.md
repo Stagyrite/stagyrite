@@ -25,6 +25,8 @@
 
 #### Speaking Streem
 
+##### ./stream certify.strm
+
 ```ruby
 # Output:
 # 🦬 Certification 🦬
