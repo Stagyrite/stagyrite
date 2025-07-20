@@ -25,7 +25,7 @@
 
 #### Speaking Streem
 
-##### ./stream 10certifications.strm
+##### ./stream certifications.strm
 
 ```ruby
 puts("🦬 Certification 🦬")
