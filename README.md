@@ -28,18 +28,18 @@
 ##### ./stream certification.strm
 
 ```ruby
-puts("🦬 Certification 🦬")
-prepend = map { x -> "💎 OC" + x }
+puts("💎 Certification 💎")
+prepend = map { x -> "📜 OC" + x }
 sempa = chars("SEMPA\0")
 sempa | prepend | stdout
 
 # Output:
-# 🦬 Certification 🦬
-# 💎 OCS
-# 💎 OCE
-# 💎 OCM
-# 💎 OCP
-# 💎 OCA
+# 💎 Certification 💎
+# 📜 OCS
+# 📜 OCE
+# 📜 OCM
+# 📜 OCP
+# 📜 OCA
 ```
 
 ---
