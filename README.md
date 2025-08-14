@@ -1,7 +1,9 @@
 ## Certification
 
 <kbd>
+  
 ![square](square.png)
+
 </kbd>
 
 * ⌛ **Time Range:** 2024-2025
