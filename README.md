@@ -1,6 +1,6 @@
 ## Certification
 
-> ![square](square.png)
+![square](square.png)
 
 * ⌛ **Time Range:** 2024-2025
 * 🗺️ **Location:** [Oracle University](https://www.oracle.com/education/ "Oracle University")
