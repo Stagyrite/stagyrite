@@ -1,3 +1,9 @@
+# Maciej Matiaszowski 
+
+[![Gitter](https://badges.gitter.im/JoinChat.svg)](https://gitter.im/stagyrite/kasette?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge "Gitter") [![pages-build-deployment](https://github.com/Stagyrite/stagyrite/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Stagyrite/stagyrite/actions/workflows/pages/pages-build-deployment)
+
+[Master of Computer Science](https://stagyrite.github.io/ "Stagyrite &#124; Private Homepage") \| [Oracle Certified Java Professional](https://catalog-education.oracle.com/pls/certview/sharebadge?id=9975082503C1283F2B41AA028D2DFA4763196DD3CB7F09D0B0D7BF65DCFCEABA "Oracle Certified Professional, Java SE 8 Programmer")
+
 ## Certification
 
 ![square](square.png)
