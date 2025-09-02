@@ -1,4 +1,4 @@
-# Maciej Matiaszowski 
+# 🚢📜🧭⚓️
 
 [![Gitter](https://badges.gitter.im/JoinChat.svg)](https://gitter.im/stagyrite/kasette?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge "Gitter") [![pages-build-deployment](https://github.com/Stagyrite/stagyrite/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Stagyrite/stagyrite/actions/workflows/pages/pages-build-deployment)
 
@@ -50,4 +50,4 @@ sempa | prepend | stdout
 
 ---
 
-🚢📜🧭⚓️
+[Stagyrite](https://stagyrite.github.io/stagyrite/ "Yet another profile &#124; Stagyrite")
