@@ -31,7 +31,7 @@
 
 #### Speaking Streem
 
-##### ./stream [certification.strm](certification.strm "stagyrite/certification.strm at main · Stagyrite/stagyrite")
+##### ./stream [certification.strm](https://github.com/Stagyrite/stagyrite/blob/main/certification.strm "stagyrite/certification.strm at main · Stagyrite/stagyrite")
 
 ```ruby
 puts("💎 Certification 💎")
