@@ -50,4 +50,4 @@ sempa | prepend | stdout
 
 ---
 
-[@stagyrite](https://stagyrite.github.io/stagyrite/ "Yet another profile &#124; Stagyrite")
+[**Stag**yrite](https://stagyrite.github.io/stagyrite/ "Yet another profile &#124; Stagyrite")
